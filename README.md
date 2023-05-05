@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>My Information</h1>
-<h2>Name: Ploynapat Bunsena</h2>
-<h2>ID: 6310610966</h2>
